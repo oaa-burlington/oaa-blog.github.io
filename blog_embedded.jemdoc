@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{blog_embedded.html}
+= Embedded R Example	
+
+~~~
+{Simple block}
+The FX rate downloaded from  [http://www.quantmod.com/ this link] 
+~~~
+
+~~~
+{}{img_left}{fx.png}{alt text}{WIDTHpx}{HEIGHTpx}{IMGLINKTARGET}
+Ordinary jemdoc markup goes here.
+~~~

@@ -1,0 +1,6 @@
+# jemdoc: menu{MENU}{blog_embedded.html}
+= Embedded R Example	
+ ~~~
+{Code Example}{pyint}
+library(quantmod)
+~~~
